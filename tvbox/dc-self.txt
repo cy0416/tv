@@ -155,6 +155,22 @@
   {
    "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/live.json",
    "name": "📺直播源(175条)"
+  },
+  {
+   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/thirdparty/王二小-aiwex.json",
+   "name": "王二小-全接口(自有)"
+  },
+  {
+   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/thirdparty/王二小-newwex.json",
+   "name": "王二小-OK影视(自有)"
+  },
+  {
+   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/thirdparty/王二小-wex.json",
+   "name": "王二小-wex(自有)"
+  },
+  {
+   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/thirdparty/肥猫.json",
+   "name": "肥猫(自有)"
   }
  ]
 }
