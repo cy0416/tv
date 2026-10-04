@@ -195,6 +195,10 @@
   {
    "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/author/zz.json",
    "name": "作者采集-zz"
+  },
+  {
+   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/live.json",
+   "name": "📺直播源(175条)"
   }
  ]
 }
