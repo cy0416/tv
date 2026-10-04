@@ -1,0 +1,46 @@
+王二小放牛娃 系列接口地址清单
+整理保存时间：2026-10-04
+说明：安卓推荐使用新接口（OK萤石）；苹果推荐 MiraPlay；电脑版推荐羊壳。
+.vip 无法访问时，尝试使用 .space 连接。
+
+【安卓三代接口】
+https://9280.kstore.vip/aiwex.json
+https://9280.kstore.space/aiwex.json
+http://ai.xn--4kq62z5rby2qupq9ub.top/
+http://new.王二小放牛娃.top/
+http://new.999888123.xyz/
+http://new.999888987.xyz/
+
+【OK影视（安卓专用）接口】
+牛二(新接口防屏蔽) https://9280.kstore.vip/newwex.json
+牛二(中文top) http://tvbox.王二小放牛娃.top/
+牛二(常规top) http://tvbox.xn--4kq62z5rby2qupq9ub.top
+牛二(1数字xyz) http://tv.999888987.xyz/
+牛二(2数字xyz) http://tv.999888123.xyz/
+牛二(凯速) https://9280.kstore.vip/wex.json
+
+【魔力云播 猫爪（iOS专用）接口】
+http://wexfnw:wexfnw@cat.xn--4kq62z5rby2qupq9ub.top/index.js.md5
+http://wexfnw:wexfnw@cat.999888987.xyz/index.js.md5
+http://wexfnw:wexfnw@cat.999888123.xyz/index.js.md5
+
+【魔力云播专用接口】
+https://9280.kstore.vip/cat/index.js.md5
+https://9280.kstore.space/cat/index.js.md5
+
+【饭太硬】
+http://www.饭太硬.cc/tv
+http://www.饭太硬.net/tv
+http://fty.xxooo.cf/tv
+http://www.饭太硬.art/tv
+http://fty.888484.xyz/tv
+http://fty.333232.xyz/tv
+
+【防屏蔽接口（江苏/郑州专用）】
+https://raw.atomgit.com/xxxooo/fan/blobs/cef5f441c422cffe4852e0fc8b102f9be6d2bb2b/in.bmp
+（江苏和郑州个别地区，上方所有接口无法拉取时使用此接口；这两地区特别容易被阻断，若失效需重新获取新接口。）
+
+【肥猫】
+主：http://肥猫.net/tv
+备一：http://hello.肥猫.net
+备二：http://肥猫.net
