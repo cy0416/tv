@@ -89,52 +89,20 @@
    "name": "🌟21杰歌学习21🌟"
   },
   {
-   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/cache/888.html",
-   "name": "🌟本地包专用🌟"
-  },
-  {
-   "url": "https://9280.kstore.vip/aiwex.json",
+   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/thirdparty/王二小-aiwex.json",
    "name": "王二小-三代(.vip)"
   },
   {
-   "url": "https://9280.kstore.space/aiwex.json",
-   "name": "王二小-三代(.space)"
-  },
-  {
-   "url": "https://9280.kstore.vip/newwex.json",
+   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/thirdparty/王二小-newwex.json",
    "name": "王二小-OK影视(防屏蔽)"
   },
   {
-   "url": "https://9280.kstore.vip/wex.json",
+   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/thirdparty/王二小-wex.json",
    "name": "王二小-OK影视(凯速)"
   },
   {
-   "url": "http://xn--z7x900a.net/tv",
+   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/thirdparty/肥猫.json",
    "name": "肥猫(主)"
-  },
-  {
-   "url": "http://xn--z7x900a.net",
-   "name": "肥猫(备)"
-  },
-  {
-   "url": "http://ai.xn--4kq62z5rby2qupq9ub.top/",
-   "name": "王二小-AI(中文top)"
-  },
-  {
-   "url": "http://new.xn--4kq62z5rby2qupq9ub.top/",
-   "name": "王二小-new(中文top)"
-  },
-  {
-   "url": "http://new.999888123.xyz/",
-   "name": "王二小-new(1数字)"
-  },
-  {
-   "url": "http://new.999888987.xyz/",
-   "name": "王二小-new(2数字)"
-  },
-  {
-   "url": "http://tv.999888987.xyz/",
-   "name": "王二小-tv(2数字)"
   },
   {
    "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/author/new.json",
