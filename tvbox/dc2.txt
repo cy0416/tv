@@ -117,8 +117,84 @@
    "name": "肥猫(备)"
   },
   {
-   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/live.json",
-   "name": "📺直播源(175条)"
+   "url": "http://ai.xn--4kq62z5rby2qupq9ub.top/",
+   "name": "王二小-AI(中文top)"
+  },
+  {
+   "url": "http://new.xn--4kq62z5rby2qupq9ub.top/",
+   "name": "王二小-new(中文top)"
+  },
+  {
+   "url": "http://new.999888123.xyz/",
+   "name": "王二小-new(1数字)"
+  },
+  {
+   "url": "http://new.999888987.xyz/",
+   "name": "王二小-new(2数字)"
+  },
+  {
+   "url": "http://tv.999888987.xyz/",
+   "name": "王二小-tv(2数字)"
+  },
+  {
+   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/author/new.json",
+   "name": "🏰作者-欧歌聚合(tBox)"
+  },
+  {
+   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/author/安卓new.json",
+   "name": "🏰作者-安卓聚合(tBox)"
+  },
+  {
+   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/author/配置.json",
+   "name": "🏰作者-综合配置(tBox)"
+  },
+  {
+   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/author/bj.json",
+   "name": "作者采集-北极星bj"
+  },
+  {
+   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/author/dawo.json",
+   "name": "作者采集-dawo"
+  },
+  {
+   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/author/ex.json",
+   "name": "作者采集-ex"
+  },
+  {
+   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/author/hb.json",
+   "name": "作者采集-hb"
+  },
+  {
+   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/author/lb.json",
+   "name": "作者采集-lb"
+  },
+  {
+   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/author/mogg.json",
+   "name": "作者采集-mogg"
+  },
+  {
+   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/author/og.json",
+   "name": "作者采集-og"
+  },
+  {
+   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/author/sd.json",
+   "name": "作者采集-sd"
+  },
+  {
+   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/author/wogg.json",
+   "name": "作者采集-wogg"
+  },
+  {
+   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/author/xm.json",
+   "name": "作者采集-xm"
+  },
+  {
+   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/author/yyds.json",
+   "name": "作者采集-yyds"
+  },
+  {
+   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/author/zz.json",
+   "name": "作者采集-zz"
   }
  ]
 }
