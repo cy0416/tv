@@ -115,6 +115,10 @@
   {
    "url": "http://xn--z7x900a.net",
    "name": "肥猫(备)"
+  },
+  {
+   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/live.json",
+   "name": "📺直播源(175条)"
   }
  ]
 }
