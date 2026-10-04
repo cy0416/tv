@@ -91,6 +91,30 @@
   {
    "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/cache/888.html",
    "name": "🌟本地包专用🌟"
+  },
+  {
+   "url": "https://9280.kstore.vip/aiwex.json",
+   "name": "王二小-三代(.vip)"
+  },
+  {
+   "url": "https://9280.kstore.space/aiwex.json",
+   "name": "王二小-三代(.space)"
+  },
+  {
+   "url": "https://9280.kstore.vip/newwex.json",
+   "name": "王二小-OK影视(防屏蔽)"
+  },
+  {
+   "url": "https://9280.kstore.vip/wex.json",
+   "name": "王二小-OK影视(凯速)"
+  },
+  {
+   "url": "http://xn--z7x900a.net/tv",
+   "name": "肥猫(主)"
+  },
+  {
+   "url": "http://xn--z7x900a.net",
+   "name": "肥猫(备)"
   }
  ]
 }
