@@ -1,0 +1,28 @@
+{
+ "urls": [
+  {
+   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/thirdparty/%25E9%25A5%25AD%25E5%25A4%25AA%25E7%25A1%25AC-%25E5%25A4%25AA%25E5%25A4%25AA%25E5%25A4%25AA%25E7%25A1%25AC%25E4%25BA%2586.json",
+   "name": "🍚饭太硬(备份)"
+  },
+  {
+   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/thirdparty/%25E7%258E%258B%25E4%25BA%258C%25E5%25B0%258F-tvbox%25E6%258E%25A5%25E5%258F%25A3.json",
+   "name": "👶王二小tvbox(备份)"
+  },
+  {
+   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/thirdparty/%25E7%258E%258B%25E4%25BA%258C%25E5%25B0%258F-aiwex.json",
+   "name": "👶王二小AI片单"
+  },
+  {
+   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/thirdparty/%25E7%258E%258B%25E4%25BA%258C%25E5%25B0%258F-newwex.json",
+   "name": "👶王二小牛二新"
+  },
+  {
+   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/thirdparty/%25E7%258E%258B%25E4%25BA%258C%25E5%25B0%258F-wex.json",
+   "name": "👶王二小凯速"
+  },
+  {
+   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/thirdparty/%25E8%2582%25A5%25E7%258C%25AB.json",
+   "name": "🐱肥猫"
+  }
+ ]
+}
