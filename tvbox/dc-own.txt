@@ -1,0 +1,8 @@
+{
+ "urls": [
+  {
+   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/own/own.json",
+   "name": "🅰️自建采集(woog)"
+  }
+ ]
+}
