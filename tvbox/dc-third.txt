@@ -1,6 +1,10 @@
 {
  "urls": [
   {
+   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/thirdparty/%E8%82%A5%E7%8C%AB-%E6%96%B0.json",
+   "name": "🐱肥猫(新)"
+  },
+  {
    "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/thirdparty/%25E9%25A5%25AD%25E5%25A4%25AA%25E7%25A1%25AC-%25E5%25A4%25AA%25E5%25A4%25AA%25E5%25A4%25AA%25E7%25A1%25AC%25E4%25BA%2586.json",
    "name": "🍚饭太硬(备份)"
   },
@@ -19,10 +23,6 @@
   {
    "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/thirdparty/%25E7%258E%258B%25E4%25BA%258C%25E5%25B0%258F-wex.json",
    "name": "👶王二小凯速"
-  },
-  {
-   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/thirdparty/%25E8%2582%25A5%25E7%258C%25AB.json",
-   "name": "🐱肥猫"
   }
  ]
 }
