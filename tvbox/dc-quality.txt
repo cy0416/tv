@@ -1,0 +1,40 @@
+{
+ "urls": [
+  {
+   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/quality/lc-4k.json",
+   "name": "🌟4K聚合"
+  },
+  {
+   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/quality/lc-feimao.json",
+   "name": "🐱肥猫(Lightconer)"
+  },
+  {
+   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/quality/lc-ouge.json",
+   "name": "🦉欧歌(Lightconer)"
+  },
+  {
+   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/quality/lc-wangerxiao.json",
+   "name": "👶王二小(Lightconer)"
+  },
+  {
+   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/quality/qist-0827.json",
+   "name": "OK影视-qist0827"
+  },
+  {
+   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/quality/qist-fty.json",
+   "name": "🍚饭太硬-qist"
+  },
+  {
+   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/quality/gao-0827.json",
+   "name": "FongMi-gao0827"
+  },
+  {
+   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/quality/gao-js.json",
+   "name": "FongMi-js"
+  },
+  {
+   "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/quality/2hacc-oktv.json",
+   "name": "OK影视-2hacc"
+  }
+ ]
+}
