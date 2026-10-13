@@ -1,0 +1,42 @@
+[
+  {
+    "api": "https://apilsbzy1.com/api.php/provide/vod/?ac=list",
+    "name": "💕老色逼(直连)"
+  },
+  {
+    "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
+    "name": "色猫(FQ)"
+  },
+  {
+    "api": "http://apilj.com/api.php/provide/vod/at/json/",
+    "name": "成人06"
+  },
+  {
+    "api": "http://91md.me/api.php/provide/vod/",
+    "name": "91麻豆"
+  },
+  {
+    "api": "http://api.11bat.com/api.php/provide/vod/at/xml",
+    "name": "成人15"
+  },
+  {
+    "api": "https://api.maozyapi.com/inc/apijson_vod.php",
+    "name": "成人16"
+  },
+  {
+    "api": "https://apittzy.com/api.php/provide/vod/",
+    "name": "成人18"
+  },
+  {
+    "api": "https://kkzy.me/api.php/provide/vod/",
+    "name": "成人23"
+  },
+  {
+    "api": "https://shayuapi.com/api.php/provide/vod/",
+    "name": "成人24"
+  },
+  {
+    "api": "https://api.apilyzy.com/api.php/provide/vod/",
+    "name": "成人27"
+  }
+]
