@@ -1,0 +1,268 @@
+{
+  "sites": [
+    {
+      "key": "s_6c6eff",
+      "name": "💕老色逼(直连)",
+      "type": 1,
+      "api": "https://apilsbzy1.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 1,
+      "timeout": 20
+    },
+    {
+      "key": "FQ_8d779e",
+      "name": "色猫(FQ)",
+      "type": 1,
+      "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 1,
+      "timeout": 20
+    },
+    {
+      "key": "06_973cfe",
+      "name": "成人06",
+      "type": 1,
+      "api": "http://apilj.com/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 1,
+      "timeout": 20
+    },
+    {
+      "key": "91_4dae71",
+      "name": "91麻豆",
+      "type": 1,
+      "api": "http://91md.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 1,
+      "timeout": 20
+    },
+    {
+      "key": "15_fd5191",
+      "name": "成人15",
+      "type": 1,
+      "api": "http://api.11bat.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 1,
+      "timeout": 20
+    },
+    {
+      "key": "16_546a21",
+      "name": "成人16",
+      "type": 1,
+      "api": "https://api.maozyapi.com/inc/apijson_vod.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 1,
+      "timeout": 20
+    },
+    {
+      "key": "18_c2c36b",
+      "name": "成人18",
+      "type": 1,
+      "api": "https://apittzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 1,
+      "timeout": 20
+    },
+    {
+      "key": "23_f5eae1",
+      "name": "成人23",
+      "type": 1,
+      "api": "https://kkzy.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 1,
+      "timeout": 20
+    },
+    {
+      "key": "24_c7abf7",
+      "name": "成人24",
+      "type": 1,
+      "api": "https://shayuapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 1,
+      "timeout": 20
+    },
+    {
+      "key": "27_265d06",
+      "name": "成人27",
+      "type": 1,
+      "api": "https://api.apilyzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 1,
+      "timeout": 20
+    },
+    {
+      "key": "s_45284a",
+      "name": "🔞淫水机资源",
+      "type": 1,
+      "api": "https://www.xrbsp.com/api/json.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 1,
+      "timeout": 20
+    },
+    {
+      "key": "s_43876e",
+      "name": "🔞番号资源",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 1,
+      "timeout": 20
+    },
+    {
+      "key": "155_61bd23",
+      "name": "🔞155资源",
+      "type": 1,
+      "api": "https://155api.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 1,
+      "timeout": 20
+    },
+    {
+      "key": "155_61bd23",
+      "name": "🔞155资源",
+      "type": 1,
+      "api": "https://155api.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 1,
+      "timeout": 20
+    },
+    {
+      "key": "s_1d19e0",
+      "name": "🔞鸡坤资源",
+      "type": 1,
+      "api": "https://jkunzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 1,
+      "timeout": 20
+    },
+    {
+      "key": "AV_68d6ae",
+      "name": "🔞黄AV资源",
+      "type": 1,
+      "api": "https://www.pgxdy.com/api/json.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 1,
+      "timeout": 20
+    },
+    {
+      "key": "s_155728",
+      "name": "🔞香奶儿资源",
+      "type": 1,
+      "api": "https://www.gdlsp.com/api/json.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 1,
+      "timeout": 20
+    },
+    {
+      "key": "s_495b05",
+      "name": "🔞美少女资源",
+      "type": 1,
+      "api": "https://www.msnii.com/api/json.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 1,
+      "timeout": 20
+    },
+    {
+      "key": "s_4bd32a",
+      "name": "🔞白嫖资源",
+      "type": 1,
+      "api": "https://www.kxgav.com/api/json.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 1,
+      "timeout": 20
+    },
+    {
+      "key": "s_6ab18c",
+      "name": "🔞乐播资源",
+      "type": 1,
+      "api": "https://lbapi9.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 1,
+      "timeout": 20
+    },
+    {
+      "key": "s_6ab18c",
+      "name": "🔞乐播资源",
+      "type": 1,
+      "api": "https://lbapi9.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 1,
+      "timeout": 20
+    },
+    {
+      "key": "s_404e83",
+      "name": "🔞滴滴资源",
+      "type": 1,
+      "api": "https://api.ddapi.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 1,
+      "timeout": 20
+    },
+    {
+      "key": "s_404e83",
+      "name": "🔞滴滴资源",
+      "type": 1,
+      "api": "https://api.ddapi.cc/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 1,
+      "timeout": 20
+    },
+    {
+      "key": "s_98b822",
+      "name": "🔞精品资源",
+      "type": 1,
+      "api": "https://www.jingpinx.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 1,
+      "timeout": 20
+    }
+  ]
+}
