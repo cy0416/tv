@@ -1,0 +1,8 @@
+[
+  {
+    "name": "📡我的直播源(cy0416/tv)",
+    "api": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/live.txt",
+    "type": 10,
+    "remark": "来自自己的 TVBox 接口仓库"
+  }
+]
