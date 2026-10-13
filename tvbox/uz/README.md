@@ -44,7 +44,25 @@ python upload_uz.py             # 上传到仓库 tvbox/uz/
 - `build_uz.py`：从本仓库 `dc2.txt` 抓取 → 解析 → 去重 → 探测 → 生成 `out/`
 - 生成物：`cms.json`、`cms_adult.json`、`live.json`、`uzAio.zip`
 
-## 五、格式备忘
+## 五、TVBox 侧：直播源格式已修正（2026-10-13）
+
+仓库根部的 `tvbox/live.json` 原先用的是老式 `proxy://` 内嵌写法
+（`{"lives":[{"group","channels":[{"name","urls":["proxy://…"]}]}]}`），
+FongMi / 影视仓 / OK影视 不识别，导致多仓里那条直播线路被当成点播源显示、加载不出频道。
+
+现已改为现代标准格式（`{name,type:0,url,playerType,epg}`），指向仓库自己的 `tvbox/live.txt`（175 频道）：
+
+```jsonc
+// tvbox/live.json
+{ "lives": [ { "name": "📺我的直播", "type": 0,
+  "url": "https://cdn.jsdmirror.com/gh/cy0416/tv@master/tvbox/live.txt",
+  "playerType": 1, "epg": "https://epg.112114.xyz/?ch={name}&date={date}" } ] }
+```
+
+- 多仓线路照旧可用；也建议在「设置 → 直播源」把这**同一条 URL** 加成独立直播订阅，切线路也不影响直播；
+- 相关脚本：`build_live.py`（生成）、`lock_cfg.py`（2423 加密）、`upload_file.py`（单文件上传）。
+
+## 六、格式备忘
 
 ```jsonc
 // cms.json
